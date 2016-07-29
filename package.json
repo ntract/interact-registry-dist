@@ -3,6 +3,9 @@
   "commonName": "Plugin Management Tool",
   "version": "0.0.2",
   "license": "GPL-3",
+  "interact-cli": {
+    "standalone": true
+  },
   "maintainers": [
     {
       "name": "oliver.foster",
