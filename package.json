@@ -1,7 +1,7 @@
 {
   "name": "interact-registry",
   "commonName": "Plugin Management Tool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "GPL-3",
   "maintainers": [
     {
