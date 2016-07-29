@@ -14,10 +14,6 @@
     path = plugins/interact-cli-plugins-build-collate
     url = https://github.com/ntract/interact-cli-plugins-build-collate.git
 
-[submodule "plugins/interact-cli-plugins-build-collate"]
-    path = plugins/interact-cli-plugins-build-collate
-    url = https://github.com/ntract/interact-cli-plugins-build-collate.git
-
 [submodule "plugins/interact-cli-plugins-build-copy"]
     path = plugins/interact-cli-plugins-build-copy
     url = https://github.com/ntract/interact-cli-plugins-build-copy.git
