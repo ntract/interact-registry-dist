@@ -1,7 +1,7 @@
 {
     "name": "interact-registry",
-    "commonName": "Plugin Management Tool",
-    "version": "0.0.2",
+    "commonName": "Bower Registry",
+    "version": "0.0.3",
     "license": "GPL-3",
     "interact-cli": {
         "standalone": true
