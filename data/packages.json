@@ -1,59 +1,10 @@
 [
     {
-        "name": "interact-registry-frontend",
-        "url": "https://github.com/ntract/interact-registry-frontend.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
-        "name": "interact-registry",
-        "url": "https://github.com/ntract/interact-registry.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
-        "name": "interact-registry-frontend-app",
-        "url": "https://github.com/ntract/interact-registry-frontend-app.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
-        "name": "interact-client-index-html5",
-        "url": "https://github.com/ntract/interact-client-index-html5.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
-        "name": "interact-client-libraries",
-        "url": "https://github.com/ntract/interact-client-libraries.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
-        "name": "interact-client-core",
-        "url": "https://github.com/ntract/interact-client-core.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
-    },
-    {
         "name": "interact-cli",
         "url": "https://github.com/ntract/interact-cli.git",
         "hits": 1,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-01T08:35:15.103Z"
-    },
-    {
-        "name": "interact-cli-plugins-build",
-        "url": "https://github.com/ntract/interact-cli-plugins-build.git",
-        "hits": 0,
-        "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
     },
     {
         "name": "interact-cli-plugins-build-collate",
@@ -91,24 +42,45 @@
         "updatedAt": "2016-07-29T12:40:30.951Z"
     },
     {
-        "name": "interact-cli-plugins-compile",
-        "url": "https://github.com/ntract/interact-cli-plugins-compile.git",
+        "name": "interact-registry",
+        "url": "https://github.com/ntract/interact-registry.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-07-29T12:40:30.951Z"
     },
     {
-        "name": "interact-cli-plugins",
-        "url": "https://github.com/ntract/interact-cli-plugins.git",
+        "name": "interact-registry-frontend",
+        "url": "https://github.com/ntract/interact-registry-frontend.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-07-29T12:40:30.951Z"
     },
     {
-        "name": "interact-registry-bin",
-        "url": "https://github.com/ntract/interact-registry-bin.git",
-        "hits": 1,
-        "updatedAt": "2016-08-01T08:31:56.024Z",
-        "createdAt": "2016-07-29T23:25:01.972Z"
+        "name": "interact-registry-frontend-app",
+        "url": "https://github.com/ntract/interact-registry-frontend-app.git",
+        "hits": 0,
+        "createdAt": "2016-07-29T12:40:30.951Z",
+        "updatedAt": "2016-07-29T12:40:30.951Z"
+    },
+    {
+        "name": "interact-client-index-html5",
+        "url": "https://github.com/ntract/interact-client-index-html5.git",
+        "hits": 0,
+        "createdAt": "2016-07-29T12:40:30.951Z",
+        "updatedAt": "2016-07-29T12:40:30.951Z"
+    },
+    {
+        "name": "interact-client-libraries",
+        "url": "https://github.com/ntract/interact-client-libraries.git",
+        "hits": 0,
+        "createdAt": "2016-07-29T12:40:30.951Z",
+        "updatedAt": "2016-07-29T12:40:30.951Z"
+    },
+    {
+        "name": "interact-client-core",
+        "url": "https://github.com/ntract/interact-client-core.git",
+        "hits": 0,
+        "createdAt": "2016-07-29T12:40:30.951Z",
+        "updatedAt": "2016-07-29T12:40:30.951Z"
     }
 ]
