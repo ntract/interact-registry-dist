@@ -44,9 +44,9 @@
     {
         "name": "interact-cli",
         "url": "https://github.com/ntract/interact-cli.git",
-        "hits": 0,
+        "hits": 1,
         "createdAt": "2016-07-29T12:40:30.951Z",
-        "updatedAt": "2016-07-29T12:40:30.951Z"
+        "updatedAt": "2016-08-01T08:35:15.103Z"
     },
     {
         "name": "interact-cli-plugins-build",
@@ -107,8 +107,8 @@
     {
         "name": "interact-registry-bin",
         "url": "https://github.com/ntract/interact-registry-bin.git",
-        "hits": 0,
-        "updatedAt": "2016-07-29T23:25:01.972Z",
+        "hits": 1,
+        "updatedAt": "2016-08-01T08:31:56.024Z",
         "createdAt": "2016-07-29T23:25:01.972Z"
     }
 ]
