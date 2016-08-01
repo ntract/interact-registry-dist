@@ -7,6 +7,13 @@
         "updatedAt": "2016-08-01T08:35:15.103Z"
     },
     {
+        "name": "interact-cli-bin",
+        "url": "https://github.com/ntract/interact-cli-bin.git",
+        "hits": 1,
+        "createdAt": "2016-07-29T12:40:30.951Z",
+        "updatedAt": "2016-08-01T08:35:15.103Z"
+    },
+    {
         "name": "interact-cli-plugins-build-collate",
         "url": "https://github.com/ntract/interact-cli-plugins-build-collate.git",
         "hits": 0,
