@@ -1,2 +1,2 @@
 #!/bin/bash
-node `dirname $0`/plugins/interact-cli/index.js "$@"
+node `dirname $0`/plugins/ntract-cli/index.js "$@"
