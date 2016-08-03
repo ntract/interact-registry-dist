@@ -32,6 +32,7 @@
         "npm": "*",
         "semver": "*",
         "bower": "*",
-        "inquirer": "*"
+        "inquirer": "*",
+        "osenv": "*"
     }
 }
