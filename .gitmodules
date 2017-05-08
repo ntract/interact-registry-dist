@@ -3,7 +3,7 @@
     url = https://github.com/ntract/ntract-cli.git
 
 [submodule "plugins/ntract-cli-plugins-build-collate"]
-    path = plugins/ntract-cli-plugins-build-collate
+	path = plugins/ntract-cli-build-collate
     url = https://github.com/ntract/ntract-cli-plugins-build-collate.git
 
 [submodule "plugins/ntract-cli-plugins-build-copy"]
