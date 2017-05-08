@@ -7,7 +7,7 @@
     url = https://github.com/ntract/ntract-cli-plugins-build-collate.git
 
 [submodule "plugins/ntract-cli-plugins-build-copy"]
-    path = plugins/ntract-cli-plugins-build-copy
+	path = plugins/ntract-cli-build-copy
     url = https://github.com/ntract/ntract-cli-plugins-build-copy.git
 
 [submodule "plugins/ntract-cli-plugins-build-handlebars"]
