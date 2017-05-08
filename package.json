@@ -1,39 +1,43 @@
 {
-  "name": "ntract-registry",
-  "commonName": "Bower Registry",
-  "version": "0.0.16",
-  "license": "GPL-3",
-  "ntract-cli": {
-    "standalone": true
-  },
-  "maintainers": [
-    {
-      "name": "oliver.foster",
-      "email": "oliver.foster@kineo.com"
+    "name": "ntract-registry",
+    "commonName": "Bower Registry",
+    "version": "0.0.16",
+    "license": "GPL-3",
+    "ntract-cli": {
+        "standalone": true
+    },
+    "maintainers": [
+        {
+            "name": "oliver.foster",
+            "email": "oliver.foster@kineo.com"
+        }
+    ],
+    "bin": {
+        "ntract-registry": "./bin/ntract-registry"
+    },
+    "scripts": {
+        "postinstall": "node plugins/ntract-cli/res/permissions.js",
+        "start": "./ntract-registry"
+    },
+    "dependencies": {
+        "express": "^4.14.0",
+        "body-parser": "^1.15.0",
+        "multer": "^1.1.0",
+        "handlebars": "*",
+        "less": "*",
+        "requirejs": "*",
+        "buildkit-globber": "*",
+        "chalk": "*",
+        "underscore": "*",
+        "underscore-deep-extend": "*",
+        "npm": "*",
+        "semver": "*",
+        "bower": "*",
+        "inquirer": "*",
+        "osenv": "*",
+        "pg": "~6.1.0",
+        "pg-hstore": "^2.3.2",
+        "request": "~2.79.0",
+        "sequelize": "~3.27.0"
     }
-  ],
-  "bin": {
-    "ntract-registry": "./bin/ntract-registry"
-  },
-  "scripts": {
-    "postinstall": "node plugins/ntract-cli/res/permissions.js",
-    "start": "./ntract-registry"
-  },
-  "dependencies": {
-    "express": "^4.14.0",
-    "body-parser": "^1.15.0",
-    "multer": "^1.1.0",
-    "handlebars": "*",
-    "less": "*",
-    "requirejs": "*",
-    "buildkit-globber": "*",
-    "chalk": "*",
-    "underscore": "*",
-    "underscore-deep-extend": "*",
-    "npm": "*",
-    "semver": "*",
-    "bower": "*",
-    "inquirer": "*",
-    "osenv": "*"
-  }
 }
