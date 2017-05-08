@@ -14,36 +14,36 @@
         "updatedAt": "2016-08-01T08:35:15.103Z"
     },
     {
-        "name": "ntract-cli-plugins-build-collate",
-        "url": "https://github.com/ntract/ntract-cli-plugins-build-collate.git",
+        "name": "ntract-cli-build-collate",
+        "url": "https://github.com/ntract/ntract-cli-build-collate.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-03T10:38:02.146Z"
     },
     {
-        "name": "ntract-cli-plugins-build-copy",
-        "url": "https://github.com/ntract/ntract-cli-plugins-build-copy.git",
+        "name": "ntract-cli-build-copy",
+        "url": "https://github.com/ntract/ntract-cli-build-copy.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-03T10:38:02.153Z"
     },
     {
-        "name": "ntract-cli-plugins-build-handlebars",
-        "url": "https://github.com/ntract/ntract-cli-plugins-build-handlebars.git",
+        "name": "ntract-cli-build-handlebars",
+        "url": "https://github.com/ntract/ntract-cli-build-handlebars.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-03T10:38:02.155Z"
     },
     {
-        "name": "ntract-cli-plugins-build-less",
-        "url": "https://github.com/ntract/ntract-cli-plugins-build-less.git",
+        "name": "ntract-cli-build-less",
+        "url": "https://github.com/ntract/ntract-cli-build-less.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-03T10:38:02.156Z"
     },
     {
-        "name": "ntract-cli-plugins-build-requirejs",
-        "url": "https://github.com/ntract/ntract-cli-plugins-build-requirejs.git",
+        "name": "ntract-cli-build-requirejs",
+        "url": "https://github.com/ntract/ntract-cli-build-requirejs.git",
         "hits": 0,
         "createdAt": "2016-07-29T12:40:30.951Z",
         "updatedAt": "2016-08-03T10:38:02.158Z"
