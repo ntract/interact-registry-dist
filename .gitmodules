@@ -11,7 +11,7 @@
     url = https://github.com/ntract/ntract-cli-plugins-build-copy.git
 
 [submodule "plugins/ntract-cli-plugins-build-handlebars"]
-    path = plugins/ntract-cli-plugins-build-handlebars
+	path = plugins/ntract-cli-build-handlebars
     url = https://github.com/ntract/ntract-cli-plugins-build-handlebars.git
 
 [submodule "plugins/ntract-cli-plugins-build-less"]
