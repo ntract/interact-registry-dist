@@ -19,7 +19,7 @@
     url = https://github.com/ntract/ntract-cli-plugins-build-less.git
 
 [submodule "plugins/ntract-cli-plugins-build-requirejs"]
-    path = plugins/ntract-cli-plugins-build-requirejs
+	path = plugins/ntract-cli-build-requirejs
     url = https://github.com/ntract/ntract-cli-plugins-build-requirejs.git
 
 [submodule "plugins/ntract-registry"]
